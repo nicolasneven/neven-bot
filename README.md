@@ -1,2 +1,2 @@
-# neven-bot
+# monkey-bot
  My first cryptocurrency trading bot written in Python
